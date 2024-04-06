@@ -14,7 +14,7 @@ services:
     volumes:
       - "./app:/var/www/html" 
     ports:
-      - 8002:80
+      - 80:80
       - 443:443 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
