@@ -1,2 +1,2 @@
 <div> A keresebb oldal nem található</div>
-<a href="/"> Lépj vissza a főoldalra</a>
+<a class="btn btn-primary" href="/"> Lépj vissza a főoldalra</a>
