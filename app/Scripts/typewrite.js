@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded',function(event){
    
-    var dataText = [ "Java", "PHP", "Python", "JavaSript", "MySql", "HTLM", "CSS"];
+    var dataText = [ "Java", "PHP", "Python", "C#", "JavaSript", "MySql", "HTLM", "CSS", "Docker"];
     
    
     function typeWriter(text, i, fnCallback) {
